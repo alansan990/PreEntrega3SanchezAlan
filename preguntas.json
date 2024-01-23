@@ -1,0 +1,13 @@
+[
+    {
+      "pregunta": "¿Cuál es la capital de Francia?",
+      "respuestas": ["Londres", "París", "Madrid", "Berlín"],
+      "respuestaCorrecta": "París"
+    },
+    {
+      "pregunta": "¿Cuántos lados tiene un triángulo?",
+      "respuestas": ["3", "4", "5", "6"],
+      "respuestaCorrecta": "3"
+    }
+  ]
+  
